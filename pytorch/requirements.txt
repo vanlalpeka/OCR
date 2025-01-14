@@ -1,0 +1,8 @@
+torch 
+torchvision 
+matplotlib 
+tqdm 
+textdistance 
+lmdb  # Python binding for the LMDB ‘Lightning’ Database
+trdg  # TextRecognitionDataGenerator 
+Pillow==9.5.0  # Pillow version with getsize() function
